@@ -1,0 +1,25 @@
+#AndroidappPath : /Users/rajbazar/Desktop/foundationapp-debug.apk
+AndroidappPath : /Users/rajbazar/Desktop/foundationapp-release.apk
+AndroidappPackageName : com.matrixx.foundationapp
+AndroidDeviceUDID : emulator-5554
+AndroidplatformName : Android
+Androidversion : 9
+AndroidnewCommandTimeout : 300000
+AndroidappiumServerAddress : 127.0.0.1:4723
+AndroidType: Android
+userLogin1: rajbazar121@gmail.com
+userPwd1: qqqqqqqq
+IOSappPath : /Users/rajbazar/Desktop/newAppfiles/FoundationApp.app
+#IOSappPath : Users/rajbazar/Desktop/appfiles/FoundationApp.app
+IOSdeviceName : iPhone X
+#IOSdeviceName : iPhone X
+#IOSDeviceUDID : 40E737C2-930E-41FD-B073-B0BC407D9A70
+#IOSDeviceUDID : AE9C1F42-F4D2-4D77-9328-CEFABB876276
+IOSplatformName : iOS
+IOSversion : 12.4
+IOSnewCommandTimeout : 300000
+IOSappiumServerAddress : 127.0.0.1:4724
+IOSType: IOS
+userLogin2: rajbazar122@gmail.com
+userPwd2: qqqqqqqq
+#/Users/rajbazar/Desktop/FoundationApp.app
